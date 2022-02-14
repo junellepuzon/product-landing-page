@@ -458,7 +458,7 @@ input[type="submit"] {
   cursor: pointer;
   border: none;
   flex-grow: 2;
-  padding: 20px;
+  padding: 21px;
 }
 
 input:focus {
