@@ -1,3 +1,3 @@
 # Project: Product Landing Page
 
-[LIVE](https://product-landing-page-iota-one.vercel.app/)
+[LIVE](https://vercel.com/junellepuzon/product-landing-page)
