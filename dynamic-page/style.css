@@ -50,7 +50,7 @@
   /* nav bar icons */
   
   .icon-logo {
-    background: url("/media/icons/apple-logo.svg");
+    background: url("icons/apple-logo.svg");
     display: block;
     background-position: center;
     background-size: 12px;
@@ -60,7 +60,7 @@
   }
   
   .icon-search {
-    background: url("/media/icons/search-icon.svg");
+    background: url("icons/search-icon.svg");
     display: block;
     background-position: center;
     background-size: 14px;
@@ -70,7 +70,7 @@
   }
   
   .icon-bag {
-    background: url("/media/icons/bag-icon.svg");
+    background: url("icons/bag-icon.svg");
     display: block;
     background-position: center;
     background-size: 12px;
